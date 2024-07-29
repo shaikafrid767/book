@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Emulator config file set to A:\exam\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] DiagnosticsStoreRootPath set to: C:\Users\Afrid shaik\AppData\Local\dftmp\Resources\179d57ff-0037-4eab-a6bf-5c3fab005c06
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Loading config file: A:\exam\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Config file to read: A:\exam\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Emulator config file set to A:\exam\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:45] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:46] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:29:46] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:30:57] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [29-07-2024 03:30:57] DiagnosticPlugin exited with code 0
